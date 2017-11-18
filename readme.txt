@@ -11,4 +11,4 @@ creating a new branch is so quick
 =======
 creat another branch
 >>>>>>> feature1
-stupid zhangzhidong
+stupid
